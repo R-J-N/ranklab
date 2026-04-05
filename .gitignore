@@ -10,5 +10,8 @@ venv/
 frontend/node_modules/
 frontend/dist/
 
+# Claude Code internal memory
+.claude/
+
 # OS
 .DS_Store
