@@ -2,6 +2,9 @@
 
 Rank documents and web pages by relevance to a query using **MapReduce** + **PageRank**.
 
+<img width="1644" height="1271" alt="image" src="https://github.com/user-attachments/assets/20e664ae-1d68-4cad-b4a5-50af46bd0736" />
+<img width="851" height="1678" alt="image" src="https://github.com/user-attachments/assets/30e71e85-4586-4a15-a4a0-5e77bf53aa6f" />
+
 ## Features
 
 - Submit URLs, paste raw text, or upload `.txt` / `.pdf` files
